@@ -1,5 +1,9 @@
 # crypto_demo
 
+Please note that you need to provide your Coin Marketcap API key in the crypto.dart file, thus setting the X-CMC_PRO_API_KEY header value.
+
+This should actually be set by environment variables, I recommend this approach https://itnext.io/flutter-1-17-no-more-flavors-no-more-ios-schemas-command-argument-that-solves-everything-8b145ed4285d
+
 A new Flutter project.
 
 ## Getting Started
